@@ -42,9 +42,9 @@ Partial Class frmMain
         Me.lblHeader.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblHeader.Location = New System.Drawing.Point(13, 13)
         Me.lblHeader.Name = "lblHeader"
-        Me.lblHeader.Size = New System.Drawing.Size(111, 25)
+        Me.lblHeader.Size = New System.Drawing.Size(177, 25)
         Me.lblHeader.TabIndex = 0
-        Me.lblHeader.Text = "SealSync"
+        Me.lblHeader.Text = "SealSync BETA"
         '
         'lblSourceFolder
         '
